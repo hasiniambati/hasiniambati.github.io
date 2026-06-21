@@ -1,9 +1,10 @@
 # 🌐 Hasini Portfolio
-<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/e246f008-dbdf-491e-9052-ca3709fdf123" />
 
-<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/d8b24629-6f5b-4c7a-8c97-5063e083aee4" />
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/375ba817-f453-488c-a1fb-9e301f68c1ec" />
 
-<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/ce52fa72-4384-4ec4-84fa-12d83d87eaf7" />
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/6bc3c068-01c0-4f73-9fea-04f80041a276" />
+
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/70fa0d41-ea8d-4eb7-8c2b-b43ae5688932" />
 
 A clean, responsive, and modern personal portfolio website built using HTML and CSS to showcase my skills, projects, certifications, and professional journey as an aspiring Software Development Engineer and AI/ML Engineer.
 
@@ -89,7 +90,7 @@ Hasini-Portfolio/
 
 - HTML
 - CSS
-- Responsive Design
+- JavaScript
 
 ### Tools
 
@@ -101,17 +102,59 @@ Hasini-Portfolio/
 
 ## 📌 Featured Projects
 
-### Emotion Recognition
+### Counter App
 
-A Machine Learning project focused on identifying human emotions from facial expressions and data patterns.
+- A simple counter application featuring increment, decrement, and reset functionality.
 
-### Handwritten Digit Classification
+Skills: DOM Manipulation, Event Handling, Functions
 
-Built a classification model capable of recognizing handwritten digits using core machine learning concepts.
+### Dice Roller
 
-### Credit Scoring Model
+- A virtual dice rolling application that generates random outcomes and displays dice results dynamically.
 
-An AI-driven system that predicts creditworthiness based on financial and behavioral attributes.
+Skills: Random Number Generation, DOM Updates, JavaScript Logic
+
+### Digital Clock
+
+- A real-time digital clock that continuously updates and displays the current system time.
+
+Skills: Date Object, setInterval(), Time Formatting
+
+### Number Guessing Game
+
+- An interactive game where users attempt to guess a randomly generated number with instant feedback.
+
+Skills: Conditional Statements, Loops, User Input Handling
+
+### Random Password Generator
+
+- A password generator that creates strong and customizable passwords using different character sets.
+
+Skills: String Manipulation, Arrays, Randomization
+
+### Stopwatch Program
+
+- A stopwatch application featuring start, pause, resume, and reset functionality.
+
+Skills: Timing Functions, State Management, Event Handling
+
+### Temperature Conversion
+
+- A web application that converts temperatures between Celsius and Fahrenheit.
+
+Skills: Mathematical Operations, Form Handling, Validation
+
+### Checked Property Demo
+
+A project demonstrating JavaScript interaction with checkboxes and radio buttons.
+
+Skills: Form Controls, DOM Properties, Conditional Logic
+
+### Random Generator
+
+- A utility project that generates random values based on user actions.
+
+Skills: Event Handling, Randomization, DOM Manipulation
 
 ---
 
