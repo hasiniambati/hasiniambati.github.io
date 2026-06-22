@@ -209,6 +209,36 @@ body {
     font-weight: 600;
 }
 
+.project-buttons{
+    display:flex;
+    gap:10px;
+    margin-top:15px;
+}
+
+.project-link,
+.demo-link{
+    text-decoration:none;
+    padding:10px 16px;
+    border-radius:8px;
+    font-weight:600;
+    transition:all 0.3s ease;
+}
+
+.project-link{
+    background:#2563eb;
+    color:white;
+}
+
+.demo-link{
+    background:#10b981;
+    color:white;
+}
+
+.project-link:hover,
+.demo-link:hover{
+    transform:translateY(-2px);
+}
+
 /* --- 6. Accomplishments & Details Section --- */
 .details-section {
     padding: 80px 8%;
