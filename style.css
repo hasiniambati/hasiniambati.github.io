@@ -1,4 +1,3 @@
-/* --- 1. Global Reset & Base Styles --- */
 * {
     margin: 0;
     padding: 0;
@@ -7,7 +6,7 @@
 }
 
 html {
-    scroll-behavior: smooth; /* Gives a smooth glide animation when clicking links */
+    scroll-behavior: smooth; 
 }
 
 body {
@@ -16,7 +15,6 @@ body {
     line-height: 1.6;
 }
 
-/* --- 2. Navigation Bar (Flexbox) --- */
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -29,18 +27,15 @@ body {
     z-index: 100;
 }
 
-/* Add this to your style.css file */
-
 .logo-image {
-    width: 45px;          /* Sets the width of your logo */
-    height: 45px;         /* Sets the height of your logo */
-    border-radius: 50%;   /* This magic line makes the square image a perfect circle */
-    object-fit: cover;    /* Prevents the image from stretching or looking squished */
-    border: 2px solid white; /* Optional: Adds a clean colored border around your photo */
+    width: 45px;         
+    height: 45px;        
+    border-radius: 50%;  
+    object-fit: cover;    
+    border: 2px solid white; 
     transition: transform 0.2s ease;
 }
 
-/* Optional fun effect: makes your photo pop slightly when someone hovers over it */
 .logo-image:hover {
     transform: scale(1.05);
 }
@@ -65,12 +60,11 @@ body {
     color: #4f46e5;
 }
 
-/* --- 3. Hero Section (Updated for Multiple Buttons) --- */
 .hero-section {
     min-height: 70vh;
     display: flex;
     align-items: center;
-    padding: 60px 8%; /* Added top/bottom padding for clean spacing */
+    padding: 60px 8%; 
     background: linear-gradient(135deg, #f5f7ff 0%, #ffffff 100%);
 }
 
@@ -80,7 +74,7 @@ body {
 }
 
 .hero-content h3 {
-    font-size: 1.6rem; /* Adjusted slightly to fit the longer text title cleanly */
+    font-size: 1.6rem; 
     color: #4a5568;
     font-weight: 500;
     margin-bottom: 20px;
@@ -98,14 +92,12 @@ body {
     color: #4f46e5;
 }
 
-/* Flexbox container to align both buttons side-by-side */
 .hero-buttons {
     display: flex;
-    gap: 15px;       /* Creates a clean space between buttons */
-    flex-wrap: wrap; /* Keeps it responsive on mobile screens */
+    gap: 15px;       
+    flex-wrap: wrap; 
 }
 
-/* Base button styles applied to BOTH buttons */
 .btn {
     display: inline-block;
     padding: 12px 28px;
@@ -115,7 +107,6 @@ body {
     transition: transform 0.2s, background-color 0.2s, color 0.2s, border-color 0.2s;
 }
 
-/* Style specific to the primary "View My Work" solid button */
 .btn:not(.btn-secondary) {
     background-color: #4f46e5;
     color: white;
@@ -127,7 +118,6 @@ body {
     transform: translateY(-2px);
 }
 
-/* Style specific to the "Download CV" outline button */
 .btn-secondary {
     background-color: transparent;
     color: #4f46e5;
@@ -140,7 +130,6 @@ body {
     transform: translateY(-2px);
 }
 
-/* --- 4. Skills & Projects Layouts (CSS Grid) --- */
 .skills-section, .projects-section, .contact-section {
     padding: 80px 8%;
     text-align: center;
@@ -168,7 +157,6 @@ body {
     color: #4a5568;
 }
 
-/* Projects Layout */
 .projects-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -239,7 +227,6 @@ body {
     transform:translateY(-2px);
 }
 
-/* --- 6. Accomplishments & Details Section --- */
 .details-section {
     padding: 80px 8%;
     background-color: #f8fafc;
@@ -250,7 +237,7 @@ body {
     display: flex;
     justify-content: space-between;
     gap: 50px;
-    flex-wrap: wrap; /* Ensures responsiveness on mobile devices */
+    flex-wrap: wrap; 
 }
 
 .details-block {
@@ -266,7 +253,6 @@ body {
     position: relative;
 }
 
-/* Custom Bullet List for Certifications */
 .custom-list {
     list-style: none;
 }
@@ -279,7 +265,6 @@ body {
     padding-left: 25px;
 }
 
-/* Adds a sleek modern indigo dot instead of basic bullet points */
 .custom-list li::before {
     content: "•";
     color: #4f46e5;
@@ -290,7 +275,6 @@ body {
     top: -4px;
 }
 
-/* Soft Skills Tags Layout */
 .soft-skills-grid {
     display: flex;
     flex-wrap: wrap;
@@ -316,7 +300,6 @@ body {
     transform: translateY(-2px);
 }
 
-/* ---  Contact Section (Updated with Brand Colors) --- */
 .contact-section {
     padding: 80px 8%;
     text-align: center;
@@ -340,10 +323,9 @@ body {
     display: flex;
     justify-content: center;
     gap: 20px;
-    flex-wrap: wrap; /* Prevents buttons from squeezing together on mobile screens */
+    flex-wrap: wrap; 
 }
 
-/* Base button styling */
 .contact-btn {
     padding: 12px 24px;
     color: white;
@@ -354,7 +336,6 @@ body {
     transition: transform 0.2s ease, opacity 0.2s ease;
 }
 
-/* Individual Platform Brand Colors */
 .email-btn {
     background-color: #4f46e5;
     border-color: #4f46e5;
@@ -366,19 +347,17 @@ body {
 }
 
 .linkedin-btn {
-    background-color: #0077b5; /* LinkedIn Blue */
+    background-color: #0077b5; 
     border-color: #0077b5;
 }
 
 .leetcode-btn {
-    background-color: #ffa116; /* LeetCode Orange */
+    background-color: #ffa116; 
     border-color: #ffa116;
 }
 
-
-/* Interactive Hover Effects */
 .contact-btn:hover {
-    transform: translateY(-3px); /* Makes the button lift up slightly */
-    opacity: 0.9;                /* Gives a slight fade highlight */
-    color: white;                /* Forces text to remain highly visible */
+    transform: translateY(-3px); 
+    opacity: 0.9;                
+    color: white;              
 }
