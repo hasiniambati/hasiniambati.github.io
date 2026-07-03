@@ -11,12 +11,6 @@
 
 A clean, responsive, and modern personal portfolio website built using HTML and CSS to showcase my skills, projects, certifications, and professional journey as an aspiring Software Development Engineer and AI/ML Engineer.
 
-
-## 🚀 Live Demo
-
-🌍 [Open Application](https://hasiniambati.github.io/)
-
-
 ## 📋 Overview
 
 This portfolio serves as my professional online presence, highlighting:
@@ -173,9 +167,13 @@ Expected Graduation: 2028
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/hasiniambati
+  
 - LinkedIn: https://linkedin.com/in/hasini-reddy-ambati-82ab87321
+
 - LeetCode: https://leetcode.com/u/hasini_2007
+
 - Portfolio: https://hasiniambati.github.io/
+
 - Email: hasiniambati200@gmail.com
 
 ## Author
@@ -183,8 +181,11 @@ Expected Graduation: 2028
 **Ambati Hasini**
 
 B.Tech Artificial Intelligence Student
+
 Aspiring Software Developer
 
 Portfolio: https://hasiniambati.github.io
+
 GitHub: https://github.com/hasiniambati
+
 LinkedIn: https://linkedin.com/in/hasini-reddy-ambati-82ab87321
