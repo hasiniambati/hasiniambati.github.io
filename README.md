@@ -1,7 +1,7 @@
 ## 🌐 Hasini Portfolio
 
 - Portfolio Website:
-- https://hasiniambatiportfolio.netlify.app
+- https://hasiniambati.github.io
 
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/375ba817-f453-488c-a1fb-9e301f68c1ec" />
 
@@ -14,7 +14,7 @@ A clean, responsive, and modern personal portfolio website built using HTML and 
 
 ## 🚀 Live Demo
 
-🌍 [Open Application](https://hasiniambatiportfolio.netlify.app/)
+🌍 [Open Application](https://hasiniambati.github.io/)
 
 
 ## 📋 Overview
@@ -96,6 +96,7 @@ Hasini-Portfolio/
 - HTML
 - CSS
 - JavaScript
+- React
 
 ### Tools
 
@@ -199,10 +200,10 @@ Expected Graduation: 2028
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/hasiniambati23
+- GitHub: https://github.com/hasiniambati
 - LinkedIn: https://linkedin.com/in/hasini-reddy-ambati-82ab87321
-- LeetCode: https://leetcode.com/u/hasiniambati23
-- Portfolio: https://hasiniambatiportfolio.netlify.app/
+- LeetCode: https://leetcode.com/u/hasini_2007
+- Portfolio: https://hasiniambati.github.io/
 - Email: hasiniambati200@gmail.com
 
 ## Author
@@ -212,6 +213,6 @@ Expected Graduation: 2028
 B.Tech Artificial Intelligence Student
 Aspiring Software Developer
 
-Portfolio: https://hasiniambatiportfolio.netlify.app
-GitHub: https://github.com/hasiniambati23
+Portfolio: https://hasiniambati.github.io
+GitHub: https://github.com/hasiniambati
 LinkedIn: https://linkedin.com/in/hasini-reddy-ambati-82ab87321
