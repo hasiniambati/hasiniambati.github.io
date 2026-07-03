@@ -182,7 +182,7 @@ Expected Graduation: 2028
 
 B.Tech Artificial Intelligence Student
 
-Aspiring Software Developer
+Aspiring SDE | AI / ML Engineer
 
 Portfolio: https://hasiniambati.github.io
 
